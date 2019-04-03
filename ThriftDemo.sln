@@ -3,35 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Contract.Core", "ThriftDemo.Contract.Core\ThriftDemo.Contract.Core.csproj", "{D67C35AC-E08A-4BD0-AFC1-D50162D17EFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Contract.Core", "ThriftTemplate.Contract.Core\ThriftTemplate.Contract.Core.csproj", "{D67C35AC-E08A-4BD0-AFC1-D50162D17EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Contract.Net", "ThriftDemo.Contract.Net\ThriftDemo.Contract.Net.csproj", "{F05615FC-C8FC-4D1C-8C83-5FE2C9B246BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Contract.Net", "ThriftTemplate.Contract.Net\ThriftTemplate.Contract.Net.csproj", "{F05615FC-C8FC-4D1C-8C83-5FE2C9B246BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Server.Net", "ThriftDemo.Server.Net\ThriftDemo.Server.Net.csproj", "{F1022522-E984-4631-BA79-31C50AEB7E29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Server.Net", "ThriftTemplate.Server.Net\ThriftTemplate.Server.Net.csproj", "{F1022522-E984-4631-BA79-31C50AEB7E29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Contract.Implement.Core", "ThriftDemo.Contract.Implement.Core\ThriftDemo.Contract.Implement.Core.csproj", "{25AEF634-A17B-493B-8546-31FBC5B6FB6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Contract.Implement.Core", "ThriftTemplate.Contract.Implement.Core\ThriftTemplate.Contract.Implement.Core.csproj", "{25AEF634-A17B-493B-8546-31FBC5B6FB6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Contract.Implement.Net", "ThriftDemo.Contract.Implement.Net\ThriftDemo.Contract.Implement.Net.csproj", "{386DEFDA-9272-4DF0-BA8C-EC2549D4D515}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Contract.Implement.Net", "ThriftTemplate.Contract.Implement.Net\ThriftTemplate.Contract.Implement.Net.csproj", "{386DEFDA-9272-4DF0-BA8C-EC2549D4D515}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net", "Net", "{D8BFACAC-5800-4CB1-8407-F75B6E34DCE7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{EDE7B304-46BC-4514-991A-CF02DBC4CEA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Client.Net", "ThriftDemo.Client.Net\ThriftDemo.Client.Net.csproj", "{11B3B42D-D76F-4A78-AB7E-E5BAB7E6CE22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Client.Net", "ThriftTemplate.Client.Net\ThriftTemplate.Client.Net.csproj", "{11B3B42D-D76F-4A78-AB7E-E5BAB7E6CE22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Server.Core", "ThriftDemo.Server.Core\ThriftDemo.Server.Core.csproj", "{F619B563-52F2-4FB6-A498-995C93CE379B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Server.Core", "ThriftTemplate.Server.Core\ThriftTemplate.Server.Core.csproj", "{F619B563-52F2-4FB6-A498-995C93CE379B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Client.Core", "ThriftDemo.Client.Core\ThriftDemo.Client.Core.csproj", "{536355B2-4279-46BD-B9C6-07731B2DC5F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Client.Core", "ThriftTemplate.Client.Core\ThriftTemplate.Client.Core.csproj", "{536355B2-4279-46BD-B9C6-07731B2DC5F4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cross", "Cross", "{A4C5C1EC-BAAA-4EA3-88A6-408845E4C617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Contract.Std", "ThriftDemo.Contract.Std\ThriftDemo.Contract.Std.csproj", "{A9CFFD05-77B0-4675-ABAC-5D9CB897C1C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Contract.Std", "ThriftTemplate.Contract.Std\ThriftTemplate.Contract.Std.csproj", "{A9CFFD05-77B0-4675-ABAC-5D9CB897C1C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Contract.Implement.Std", "ThriftDemo.Contract.Implement.Std\ThriftDemo.Contract.Implement.Std.csproj", "{2EB5284A-272A-44CD-BDE3-A3057BB627F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Contract.Implement.Std", "ThriftTemplate.Contract.Implement.Std\ThriftTemplate.Contract.Implement.Std.csproj", "{2EB5284A-272A-44CD-BDE3-A3057BB627F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Server.Std.Net", "ThriftDemo.Server.Std.Net\ThriftDemo.Server.Std.Net.csproj", "{10D724A9-84DE-402F-A496-3F043C792E28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Server.Std.Net", "ThriftTemplate.Server.Std.Net\ThriftTemplate.Server.Std.Net.csproj", "{10D724A9-84DE-402F-A496-3F043C792E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftDemo.Client.Std.Core", "ThriftDemo.Client.Std.Core\ThriftDemo.Client.Std.Core.csproj", "{47D28910-0E74-44A1-B32B-3158F79A44C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftTemplate.Client.Std.Core", "ThriftTemplate.Client.Std.Core\ThriftTemplate.Client.Std.Core.csproj", "{47D28910-0E74-44A1-B32B-3158F79A44C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
