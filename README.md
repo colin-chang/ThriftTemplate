@@ -1,6 +1,6 @@
 # ThriftTemplate
 
-A demo of thrift in .net
+Template projects of thrift on .net platform.Including .Net Framework,Mono,.NET Core.
 
 **Generate .Net Core**
 
